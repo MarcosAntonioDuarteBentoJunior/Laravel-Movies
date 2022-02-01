@@ -1,0 +1,56 @@
+
+
+h2{
+    color: orange;
+}
+
+.details{
+    justify-content: space-between;
+}
+
+.dropDownImg{
+    width: 40px;
+}
+
+.spinner-border{
+    right: 8%;
+}
+
+#dropDown{
+    z-index: 1;
+}
+
+input{
+    background-color: transparent !important;
+    border-radius: 20px !important;
+    color: whitesmoke !important;
+}
+
+input:focus{
+    box-shadow: none !important;
+}
+
+main i{
+    color: orange;
+}
+
+.fa-play-circle{
+    color: black;
+}
+
+.card img{
+    height: 400px;
+}
+
+.card{
+    transition: .3s;
+}
+
+.card:hover{
+    border: 1px solid darkred;
+}
+
+.content, .no-content{
+    display: none;
+}
+
